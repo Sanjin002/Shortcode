@@ -1,0 +1,20 @@
+a.studiowebart {
+background-color: #CA1E00;
+border: 1px solid #333333;
+color: white;
+padding: 15px 32px;
+font-family: "Times New Roman", Times, serif;
+font-size: 30px;
+display: inline-block;
+margin: 4px 2px;
+cursor: pointer;
+border-radius: 20px;
+transition-duration: 1s;
+font-weight: 900;
+
+}
+
+a.studiowebart:hover {
+background-color: #FFF518;
+color: #000000;
+}
